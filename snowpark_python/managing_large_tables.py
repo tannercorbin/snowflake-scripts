@@ -1,4 +1,4 @@
---Source: https://medium.com/@sahil_singla/how-to-cut-storage-costs-in-snowflake-017ed8bd730f
+#Source: https://medium.com/@sahil_singla/how-to-cut-storage-costs-in-snowflake-017ed8bd730f
 
 # Purpose: This script assists in identifying and reducing under-utilized storage in Snowflake, 
 # especially beneficial for large tables. It leverages Snowflake's Snowpark and SQL capabilities.
