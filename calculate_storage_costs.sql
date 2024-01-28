@@ -1,3 +1,5 @@
+--Source: https://medium.com/@sahil_singla/how-to-cut-storage-costs-in-snowflake-017ed8bd730f
+
 WITH current_storage_cost AS (
     SELECT 
         currency, 
